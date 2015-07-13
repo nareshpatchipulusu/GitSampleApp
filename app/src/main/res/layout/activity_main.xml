@@ -12,7 +12,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="New Switch"
-        android:id="@+id/switch2"
+        android:id="@+id/switch3"
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true" />
 
